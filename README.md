@@ -21,14 +21,7 @@ for this assignment I was given a chart on some of the dimensions and was asked 
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+This was a difficult assignment and I had to do it with Mr. Helmstetters help outside of class during Bacon. However now that I have finished it I learned a lot more about constraints and other tools in Onshape.
 
 ---
 
