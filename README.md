@@ -5,18 +5,11 @@ We are creating a caster.
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
-
-## Base
+## Swing Arm
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+for this assignment I was given a chart on some of the dimensions and was asked to make a swing arm
 
 ### Evidence
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
