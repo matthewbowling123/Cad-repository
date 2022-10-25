@@ -64,16 +64,18 @@ This was a little more difficult then the previous assignment in my opinion. How
 ---
 
 
-## Tire
+## Multi part studio
 
 ### Description
+for this assignment I was given some dimensions and and a picture of the complete builed and was told to make this build.
 
 ### Evidence
-
+[link to document](https://cvilleschools.onshape.com/documents/d44133502557ad5d14cf2c51/w/c03f90d2cb20fa85a2514266/e/3d01c8e445044a2d7628679a)
 ### Image
+![image](https://user-images.githubusercontent.com/112979288/197881381-daa2392d-a8fc-4f08-aa23-eb66158adc65.png)
 
 ### Reflection
-
+I did not finish this project by the date it was due however I still learned a lot from it. For example I learned more about the revolve tool as well as a few other tools like mirror.
 ---
 
 
