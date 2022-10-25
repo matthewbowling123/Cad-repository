@@ -46,15 +46,20 @@ Due to instructions being given this assignment was not too difficult. However I
 ---
 
 
-## Fork
+## 4.3 - Assembling the Launcher
 
 ### Description
 
-### Evidence
+for this assignment my partner and I continued making the pull copeter began assembling it in onshape. 
 
+### Evidence
+[Link to onshape](https://cvilleschools.onshape.com/documents/bd3f10473aa802e4af0fed82/w/d9dee58c918d601d562a8ab8/e/20ad8208736ea4a75e3c30ff)
 ### Image
 
+![Assembly 1](https://user-images.githubusercontent.com/112979288/197863935-3eea53dd-884c-4b8c-9407-9535857d37e6.png)
+
 ### Reflection
+This was a little more difficult then the previous assignment in my opinion. However instructions were still given and I had a partner to help me so I still completed it without much problems.
 
 ---
 
