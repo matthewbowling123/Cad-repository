@@ -12,7 +12,7 @@ We are creating a caster.
 for this assignment I was given a chart on some of the dimensions and was asked to make a swing arm
 
 ### Evidence
-[The Swing Arm in Onshape]([https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6))
+[The Swing Arm in Onshape](https://cvilleschools.onshape.com/documents/a9d714a54bf7e763301912e2/w/e7d0a16cdcb7d3f9fbc721c5/e/260464a46e3e2a39f160d54c)
 
 ### Image
 
