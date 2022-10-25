@@ -16,7 +16,8 @@ for this assignment I was given a chart on some of the dimensions and was asked 
 
 ### Image
 
-![Screenshot 2022-10-25 150445](https://user-images.githubusercontent.com/112979288/197860149-0e3729b0-6db2-41b6-a775-edc9b341ee40.png)
+![Screenshot 2022-10-25 150445](![Swing Arm](https://user-images.githubusercontent.com/112979288/197861006-f9a3461a-16de-4ed8-9d21-b384d45cd361.png)
+)
 
 
 ### Reflection
