@@ -27,15 +27,21 @@ This was a difficult assignment and I had to do it with Mr. Helmstetters help ou
 ---
 
 
-## Mount
+## 4.2 - Key and Prop
 
 ### Description
 
-### Evidence
+For this assignment myself and a partner were given instructions for the first part of a pull copter. We each did a differant part and I was assigned the Key and Prop.
 
+### Evidence
+[Link to Kwy and Prop](https://cvilleschools.onshape.com/documents/bd3f10473aa802e4af0fed82/w/d9dee58c918d601d562a8ab8/e/731f8ca6dd3fa6c384d11641)
 ### Image
 
+![Top, Ring, Key](https://user-images.githubusercontent.com/112979288/197862662-be0ad785-4de2-45f8-b259-607d3ee8881e.png)
+
 ### Reflection
+
+Due to instructions being given this assignment was not too difficult. However I did learn about a few onshape shortcuts like ctr+s and shift+e
 
 ---
 
