@@ -16,7 +16,8 @@ for this assignment I was given a chart on some of the dimensions and was asked 
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
+![Screenshot 2022-10-25 150445](https://user-images.githubusercontent.com/112979288/197860149-0e3729b0-6db2-41b6-a775-edc9b341ee40.png)
+
 
 ### Reflection
 
