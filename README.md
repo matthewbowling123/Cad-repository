@@ -79,27 +79,31 @@ I did not finish this project by the date it was due however I still learned a l
 ---
 
 
-## Wheel
+## Assembly Practice
 
 ### Description
-
+for this assignment i followed instructions and created an assembly and then answered questions related to it.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/b95a2f911db13e47fe0d91a4/w/29ac04f78d48206077d5f478/e/785b507dc58fb7e4b7aa08dc
 ### Image
+![Screenshot 2023-05-04 12 16 25 PM](https://user-images.githubusercontent.com/112979288/236263480-41e1114d-d947-4ab3-8399-e69d44e1c417.png)
 
 ### Reflection
+This was the easiest of the certification assignments because Assemblies are not too difficult for me.
 
 ---
 
 
-## AxleCollarBearings
+## Cerification prep 2
 
 ### Description
-
+for this assignment I was given dimensions for creating a microphone stand.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/ea3d7f664bbfabe1d187a226/w/043c6e08c5b90f268c369591/e/e0bc32d3b5975ea3d067aba6
 ### Image
+![Screenshot 2023-05-04 12 19 32 PM](https://user-images.githubusercontent.com/112979288/236264234-4a70d03c-2472-4a80-b10f-9addb824b86f.png)
 
 ### Reflection
+This was not a very difficult assignment but it took me longer than i though it would. I got some dimensions wrong at first but quickly corrected them.
 
 ---
