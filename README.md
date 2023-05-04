@@ -1,6 +1,4 @@
-# BasicCAD
-
-We are creating a caster.
+# Intermediate CAD
 
 ---
 ## Table of Contents
